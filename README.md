@@ -110,7 +110,7 @@ canal.instance.filter.regex = .\..
 
 #### 使用说明
 
-1. git clone https://gitee.com/fqlee2018/canal-client
+1. git clone https://github.com/fqlee/canal-client.git
 2. 更改配置文件application.properties，修改canal服务端的连接信息和rabbitmq连接信息
 3. 启动CanalClientApplication
 4. 编辑用户表user数据，触发binlog
