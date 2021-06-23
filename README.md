@@ -1,4 +1,4 @@
-# canal-client
+# Canal-Client 
 
 #### 项目介绍
 canal客户端、解析binlog日志将数据从mysql过渡到rabbitmq和mongodb中
